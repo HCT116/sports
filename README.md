@@ -1,4 +1,4 @@
-Sports
+sports
 ======
 
 Test for the moment
